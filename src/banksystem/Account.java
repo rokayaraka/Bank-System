@@ -12,4 +12,7 @@ public class Account {
     public double getcashBalance(){
         return cashBalance;
     }
+    public void setcashbalance(double cashBalance){
+        this.cashBalance=cashBalance;
+    }
 }
